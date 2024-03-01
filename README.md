@@ -1,4 +1,4 @@
-# Song-Popularity-Prediction
+# Song Popularity
 
 ## Introduction:
 This project focuses on predicting the popularity of songs using machine learning algorithms. By analyzing various audio features, sentiment analysis of lyrics, and metadata, the project aims to forecast whether a song will become a hit.
